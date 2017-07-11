@@ -1,1 +1,2 @@
 # LiveActivity
+使Activity甚至APP息屏后不被kill掉
